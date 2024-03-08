@@ -1,0 +1,35 @@
+.body{
+    margin: 0;
+}
+
+.div1{
+    background-color: #aee96b; 
+    width: 500px; 
+    height: 500px;
+}
+
+.divfilha{
+    background-color: #20661a; 
+    width: 50%; 
+    height: 50%; 
+}
+
+.p{
+    color: white; 
+    background-color: rgb(195, 0, 255); 
+    font-size: 25px; 
+    font-family: monospace; 
+    font-weight: bold; 
+}
+
+.div2{
+    background-color: rgb(2, 71, 42); 
+    width: 50%; 
+    height: 50vh;
+}
+
+.divfilha2{
+    background-color: rgb(48, 94, 30); 
+    width: 75vw; 
+    height: 50%;
+}
